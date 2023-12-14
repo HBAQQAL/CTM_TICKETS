@@ -53,4 +53,4 @@ async function sendMail(journey) {
 start();
 setInterval(() => {
   start();
-}, 5000); // Execute the start method every 5 minutes
+}, 1000 * 60 * 3); // Execute the start method every 5 minutes
