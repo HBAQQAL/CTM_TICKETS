@@ -1,2 +1,2 @@
 # CTM_TICKETS
-GITHUB ACTION TO LOOK FOR AVIABALE CTM TICKETS DEAL DIRECTLY FROM CTM API
+Server to lock for CTM_TICKETS deals and promotion and notify by email
